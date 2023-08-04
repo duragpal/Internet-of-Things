@@ -1,2 +1,2 @@
-# Arduino Codes 1st Semester.
+# Arduino Codes - Fundamentals of IOT.
 This repository has all the Arduino-Coding.
