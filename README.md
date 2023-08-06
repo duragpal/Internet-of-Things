@@ -1,2 +1,1 @@
-# Arduino Codes - Fundamentals of IOT.
-This repository has all the Arduino-Coding.
+This repository contains all codes I have performed on Microcontrollers(Arduino, NodeMCU, Raspberry pi) and Sensors during IOT classes in college. It not only contain coding of each sensor but also its circuit design made on Tinkercad when the working was simulted and tested.
